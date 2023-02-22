@@ -2,12 +2,6 @@
 
 A wrapper around [NATS - Go Client](https://github.com/nats-io/nats.go).
 
-## Installation
-
-```bash
-go get github.com/knowledgesystems/cdsi-messaging-go
-```
-
 ## Basic Usage
 
 ```go
